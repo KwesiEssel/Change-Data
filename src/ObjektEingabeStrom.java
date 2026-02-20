@@ -4,8 +4,6 @@ import java.io.ObjectInputStream;
 /**
  * Klasse zum Lesen von Objekten aus einer Datei.
  * 
- * @author skalt
- * @version 3.0, 07/2009
  */
 public class ObjektEingabeStrom {
 
