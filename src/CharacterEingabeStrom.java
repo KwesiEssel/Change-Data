@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 /**
  * Klasse zum Testen von zeichenorientierter Eingabe aus einer Datei.
  * 
- * @author skalt
- * @version 2.0, 07/2009
  */
 public class CharacterEingabeStrom {
 
