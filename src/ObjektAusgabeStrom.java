@@ -6,8 +6,6 @@ import java.io.Serializable;
 /**
  * Klasse zum Schreiben von Objekten in eine Datei.
  * 
- * @author skalt
- * @version 3.0, 07/2009
  */
 public class ObjektAusgabeStrom implements Serializable {
 
