@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 /**
  * Klasse zum Einlesen von Eingaben (String,int) aus der Konsole.
  * 
- * @author S. Kaltofen
- * @version 3.1, 09/2011
  */
 public class EinfacheEingabe {
 
