@@ -4,8 +4,6 @@ import java.io.IOException;
 /**
  * Testen der Methoden der Klasse File.
  * 
- * @author skalt
- * @version 2.0 07/2009
  */
 public class TestFile {
     /**
