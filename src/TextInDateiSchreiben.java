@@ -8,8 +8,6 @@ import java.io.InputStreamReader;
  * Klasse zur Kombination von Ein- und Ausgabestroemen: Text wird ueber die
  * Tastatur eingelesen und in eine Datei geschrieben.
  * 
- * @author skalt
- * @version 2.0 07/2009
  */
 
 public class TextInDateiSchreiben {
