@@ -6,8 +6,6 @@ import java.io.OutputStreamWriter;
 /**
  * Klasse zum Schreiben von zeichenorientierten Ausgaben in eine Datei.
  * 
- * @author skalt
- * @version 2.0, 07/2009
  */
 class CharacterAusgabeStrom {
 
